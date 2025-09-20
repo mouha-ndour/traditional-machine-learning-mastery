@@ -1,7 +1,7 @@
 
 # Traditional ML Mastery Portfolio
 
-This repository contains 10 projects covering **graduate-level traditional machine learning skills**:
+This repository contain projects covering **graduate-level traditional machine learning skills**:
 - Optimization & Gradient Descent
 - Bias-Variance Decomposition
 - Robustness & Noise Handling
